@@ -18,7 +18,7 @@ export const SettingsModal = () => {
           <div className="flex flex-col gap-y-1">
             <Label>Appearance</Label>
             <span className="text-[0.8rem] text-muted-foreground">
-              Customize how Notion looks on your device
+              Customize how Journalize looks on your device
             </span>
           </div>
           <ModeToggle />
@@ -27,7 +27,7 @@ export const SettingsModal = () => {
           <div className="flex flex-col gap-y-1">
             <Label>Profile</Label>
             <span className="text-[0.8rem] text-muted-foreground">
-              Customize how you look on Notion.
+              Customize how you look on Journalize.
             </span>
           </div>
         </div>
@@ -35,7 +35,7 @@ export const SettingsModal = () => {
           <div className="flex flex-col gap-y-1">
             <Label>Team Spaces</Label>
             <span className="text-[0.8rem] text-muted-foreground">
-              Customize how Notion works with team
+              Customize how Journalize works with team
             </span>
           </div>
         </div>
